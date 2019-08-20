@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "stalker/flay"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+}

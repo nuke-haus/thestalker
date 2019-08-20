@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"nuke/gore2"
+	"$vertexcolor" 1 
+	"$vertexalpha" 1 
+	"$translucent" 1
+}
